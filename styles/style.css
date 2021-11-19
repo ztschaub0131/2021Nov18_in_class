@@ -1,0 +1,41 @@
+ /*CSS Comment*/
+ body {
+    font-family:Arial, Helvetica, sans-serif;
+    color:darkviolet;
+    background-color:cornflowerblue;
+}
+
+/*h1,h2,h3 {
+    font-weight: bold;
+    font-style: italic;
+    color:dimgray;
+    text-decoration: underline;
+    border-color:chocolate;
+    border-style:dashed;
+    padding-right: 100px;
+}*/
+
+.navi {
+    font-weight: bold;
+    font-style: italic;
+    color:blue;
+    text-decoration: underline;
+    border-color:chocolate;
+    border-style:dashed;
+    font-size:larger;
+}
+
+.style1 {
+    color:cyan;
+    text-decoration: underline;
+    font-weight: 16px;
+}
+
+li {
+    font-style:italic;
+    font-size:16px;
+    color:rgb(56, 59, 100)
+}
+
+
+
