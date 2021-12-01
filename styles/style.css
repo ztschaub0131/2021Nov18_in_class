@@ -2,7 +2,7 @@
  body {
     font-family:Arial, Helvetica, sans-serif;
     color:darkviolet;
-    background-color:cornflowerblue;
+    background-color:white;
 }
 
 /*h1,h2,h3 {
@@ -22,20 +22,76 @@
     text-decoration: underline;
     border-color:chocolate;
     border-style:dashed;
-    font-size:larger;
+    font: size 24px;
+    border: solid 2px lightgreen;
 }
 
-.style1 {
-    color:cyan;
-    text-decoration: underline;
-    font-weight: 16px;
+.header {
+    top: 5px;
+    right: 5px;
+    left: 5px;
 }
+
+.navig {
+    font-style: italic;
+    color:blue;
+    position: absolute;
+    padding: 10px;
+}
+
+.tableauPlaceholder {
+    top: 250px;
+    bottom: 20px;
+    float:left;
+    }
+
+.naviTitle {
+    border-color:chocolate;
+    margin-bottom: 100px;
+}
+
+.intro {
+    top:150px;
+}
+
+
+.ht {
+    top: 150px;
+    left: 100px;
+
+}
+
+.edu {
+    top: 150px;
+    left: 300px;
+
+}
+
+.skills {
+    top: 150px;
+    left: 450px;
+}
+
+.hobbies {
+    top: 150px;
+    left: 600px;
+
+}
+
+.footer {
+    top: 50px;
+    bottom: 50px;
+    }
+
+
 
 li {
     font-style:italic;
     font-size:16px;
     color:rgb(56, 59, 100)
 }
+
+
 
 
 
