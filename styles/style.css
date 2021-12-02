@@ -2,7 +2,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     color:grey;
-    background-color: ivory;
+    background-color:lightgray;
 }
 
 /*
@@ -24,15 +24,15 @@ h1, h2, h3 {
 .navi {
     font-weight: bold;
     font-style: italic;
-    color:green;
+    color:blue;
     text-decoration: underline;
-    border-color:maroon;
+    border-color:orange;
     border-style:dashed;
     font-size: 24px;
 }
 
 .header{
-    top:5 px;
+    top:5px;
     right:5px;
     left:5px;
 }
@@ -40,7 +40,7 @@ h1, h2, h3 {
 .navig {
     font-style: italic;
     color:black;
-    border: solid 2px lightgreen;
+    border: solid 2px purple;
     position:absolute;
     padding: 5px;
 }
@@ -55,7 +55,7 @@ h1, h2, h3 {
 
 .naviTitle{
     top:100px;
-    margin-bottom: 5px;
+    margin-bottom:5px;
 
 }
 
@@ -87,7 +87,7 @@ h1, h2, h3 {
 }
 
 .web {
-    color:lightgreen;
+    color:blue;
 }
 
 .footer{
